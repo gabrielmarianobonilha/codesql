@@ -11,15 +11,15 @@ codesql/
 
 |---consultas/
 
-   |---01-clientes_sem_compras.sql
+      |---01-clientes_sem_compras.sql
    
-   |---02-produtos_nao_comprados.sql
+      |---02-produtos_nao_comprados.sql
    
-   |---03-produtos_sem_estoque.sql
+      |---03-produtos_sem_estoque.sql
    
-   |---04-vendas_por_marca_e_loja.sql
+      |---04-vendas_por_marca_e_loja.sql
    
-   |---05-funcionarios_sem_pedidos.sql
+      |---05-funcionarios_sem_pedidos.sql
 
 |---samples/ #Pasta vinda do Template
 
