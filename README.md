@@ -8,14 +8,23 @@ Este repositório contem as consultas SQL desenvolvidas para o desafio proposto 
 
 ## Estrutura do Projeto
 codesql/
+
 |---consultas/
+
    |---01-clientes_sem_compras.sql
+   
    |---02-produtos_nao_comprados.sql
+   
    |---03-produtos_sem_estoque.sql
+   
    |---04-vendas_por_marca_e_loja.sql
+   
    |---05-funcionarios_sem_pedidos.sql
+
 |---samples/ #Pasta vinda do Template
+
 |---.gitgnore
+
 |---README.md
 
 
